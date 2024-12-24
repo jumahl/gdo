@@ -1,0 +1,1 @@
+<img src="{{ asset('favicon1.png') }}" {{ $attributes }} alt="Granos de Oro Logo" />
